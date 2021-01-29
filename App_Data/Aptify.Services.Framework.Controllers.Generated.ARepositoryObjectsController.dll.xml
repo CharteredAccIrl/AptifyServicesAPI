@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.ARepositoryObjectsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ARepositoryObjectsController.AptifyGeneratedEntryMethod_RepositoryObjects_RepositoryObjectById(System.String)">
+            <summary>
+            Retrieves the object from the object repository.  Optional query parameters are:
+                ImageWidth
+                ImageHeight
+                RetainFormat
+            </summary>
+            <param name="ObjectIdentifier">The object ID or the object name (in the format package.name)</param>
+            <returns></returns>
+        </member>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ARepositoryObjectsController.AptifyGeneratedEntryMethod_RepositoryObjects_RepositoryObjectByName(System.String,System.String)">
+            <summary>
+            Retrieves the object from the object repository.  Optional query parameters are:
+                ImageWidth
+                ImageHeight
+                RetainFormat
+            </summary>
+            <param name="PackageName">The Name of an Object Repository Package.</param>
+            <param name="ObjectName">The Name of an Object Repository Object inside sPackageName.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

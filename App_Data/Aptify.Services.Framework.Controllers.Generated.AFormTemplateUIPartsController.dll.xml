@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.AFormTemplateUIPartsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AFormTemplateUIPartsController.AptifyGeneratedEntryMethod_FormTemplateUIParts_Default(System.Int64,System.String)">
+            <summary>
+            This method is used to gets the text of UI Part for a form template.
+            </summary>
+            <param name="lRecordID">The ID of the form template.</param>
+            <param name="Type">The MIME type to encode the form template UI Part in; defaults to JSON.</param>
+            <returns>This return's response object.</returns>
+        </member>
+    </members>
+</doc>

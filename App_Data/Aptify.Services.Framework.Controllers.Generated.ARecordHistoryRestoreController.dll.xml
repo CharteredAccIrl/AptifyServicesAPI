@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.ARecordHistoryRestoreController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ARecordHistoryRestoreController.AptifyGeneratedEntryMethod_RecordHistoryRestore_Default">
+            <summary>
+            Restore Record History Record Version
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.APartVersionsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.APartVersionsController.AptifyGeneratedEntryMethod_PartVersions_Default">
+            <summary>
+            Returns the part versions that have been updated after a particular time.  The time wanted is defined by the query parameter UpdatedAfter in the format YYYYMMDDHHMMSS.
+            </summary>
+            <param name="UpdatedAfter">Query parameter in YYYMMDDHHMMSS format</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

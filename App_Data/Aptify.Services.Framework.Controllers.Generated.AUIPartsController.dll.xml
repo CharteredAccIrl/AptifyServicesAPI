@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.AUIPartsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AUIPartsController.AptifyGeneratedEntryMethod_UIParts_Default(System.String)">
+            <summary>
+            Gets the Text from a UI Parts record, encoded according to its Type.
+            </summary>
+            <param name="PartIdentifier">Either the ID or the Name of the UI Part.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

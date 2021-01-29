@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.ADataObjectsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ADataObjectsController.AptifyGeneratedEntryMethod_DataObjects_DefaultRoute(System.String)">
+            <summary>
+            This method is used to retrieves the service data object request.These objects must be defined in the SDO entity in Aptify.Use query strings to pass the parameters required.
+            </summary>
+            <param name="sDataObjectName">The name of the Service Data Object.</param>
+            <returns>This return's response object.</returns>
+        </member>
+    </members>
+</doc>

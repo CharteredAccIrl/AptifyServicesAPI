@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.ALinkBoxDataController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ALinkBoxDataController.AptifyGeneratedEntryMethod_LinkBoxData_PerformSearch">
+            <summary>
+            This method is used to performs a search for a link box.This can either go against an entire search configuration or an explicit list of entities.
+            </summary>
+            <returns>It's returns response object.</returns>
+        </member>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ALinkBoxDataController.AptifyGeneratedEntryMethod_LinkBoxData_AdvancedSearch">
+            <summary>
+            This method is used to performs a advance search data.
+            </summary>
+            <returns>It's returns response object.</returns>
+        </member>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ALinkBoxDataController.AptifyGeneratedEntryMethod_LinkBoxData_GetSearchConfiguration(System.String)">
+            <summary>
+            This method is used to retrieves the search configuration data as JSON.
+            </summary>
+            <param name="ConfigurationName">The name of the configuration requested.</param>
+            <returns>It's returns response object.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.AProcessFlowsControllerController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AProcessFlowsControllerController.AptifyGeneratedEntryMethod_ProcessFlowsController_Default(System.String)">
+            <summary>
+            Executes a process flow.  The process flow parameters should be passed as POST data.  This service will return an
+            http error code if the process flow is not found, if the user does not have the authority to execute the process flow,
+            or if required input parameters are missing.  If the process flow exits successfully with a failed result, an OK http code
+            will be returned for the response.  The results of the process flow will be returned as json data.
+            </summary>
+            <param name="sProcessFlowName">The Name of a Process Flow record.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

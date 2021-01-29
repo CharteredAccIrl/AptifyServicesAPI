@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.AAttachmentsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AAttachmentsController.AptifyGeneratedEntryMethod_Attachments_Get(System.String)">
+             <summary>
+             This service is used to retrieves the contents of an Attachment record.
+             </summary>
+             <param name="attachmentId">The ID of the Attachment to get.</param>
+             <returns>This service will return a successful HTTP status code.The returned json structure will have the results.</returns>
+            
+        </member>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AAttachmentsController.AptifyGeneratedEntryMethod_Attachments_CreateViaPost">
+            <summary>
+            Allows attachments uploaded through the AttachmentsUpload end point to be associated with an entity record.  Post data should be form data (key value pairs).  Accepted keys are EntityName, RecordId and GuidList.  GuidList is a comma delimited list of guids returned by the AttachmentUpload service.  All attachments will be associated with the single record described by EntityName and RecordId.
+            </summary>
+            <returns>A JSON structure that describes which guids were successfully associated with the record.</returns>
+        </member>
+    </members>
+</doc>

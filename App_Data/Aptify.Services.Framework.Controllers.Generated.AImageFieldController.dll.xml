@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.AImageFieldController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AImageFieldController.AptifyGeneratedEntryMethod_ImageField_Default(System.String,System.Int64,System.String)">
+             <summary>
+             Returns a particular field for an entity record id as an image.  Optionally allows the caller to resize the image with query parameters ImageHeight and ImageWidth.  Can use the query parameter NoImageObject to specify an optional image to be returned if the requested image cannot be found.
+            
+             </summary>
+             <param name="EntityName">URL segment for the entity name</param>
+             <param name="RecordID">URL segment for the record id</param>
+             <param name="FieldName">URL segment for the field of the record id that should be obtained</param>
+             <param name="imageHeight">Query parameter for transforming the requested image into a particular size</param>
+             <param name="imageWidth">Query parameter for transforming the requested image into a particular size</param>
+             <param name="noImageObject">Query parameter.  Name of an object repository image to return if the requested image is not found</param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

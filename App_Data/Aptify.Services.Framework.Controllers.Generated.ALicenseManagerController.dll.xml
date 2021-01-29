@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.ALicenseManagerController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ALicenseManagerController.AptifyGeneratedEntryMethod_LicenseManager_Available(System.Int64,System.String)">
+            <summary>
+            This method retrieves the available license types and how many of each is available.
+            </summary>
+            <returns>Response object</returns>
+        </member>
+    </members>
+</doc>

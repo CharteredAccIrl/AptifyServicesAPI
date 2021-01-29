@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.AViewsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.AViewsController.AptifyGeneratedEntryMethod_Views_Default(System.Int64)">
+            <summary>
+            Gets the data from a View.
+            </summary>
+            <param name="lViewId">The ID of the View.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

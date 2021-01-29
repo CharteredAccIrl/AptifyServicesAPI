@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Aptify.Services.Framework.Controllers.Generated.ASpaceThreadsController</name>
+    </assembly>
+    <members>
+        <member name="M:Aptify.Services.Framework.Controllers.Generated.ASpaceThreadsController.AptifyGeneratedEntryMethod_SpaceThreads_Default(System.Int64)">
+            <summary>
+            Retrieves SpaceThread information by the SpaceID.  Additional filtering can be performed with query parameters, even if the space id is unknown or if all space ids are wanted.
+            </summary>
+            <param name="SpaceID">The explicit Space Thread wanted.  Do not send this parameter if you want to get all information for a users feed.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
